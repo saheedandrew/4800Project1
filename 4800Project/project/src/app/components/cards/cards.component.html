@@ -1,0 +1,64 @@
+<!-- This card component contains the main directory where the http requests are made  -->
+<div *ngIf="!dataSize || value.length==0" style="background-image:url('http://gdj.graphicdesignjunction.com/wp-content/uploads/2014/05/001+background+pattern+designs.jpg'); text-align:center;width: 100%; height: 1000px;">
+  <div style="padding: 30px;">
+    <h1 style="font-size: 80px; padding-top: 300px;padding-bottom: 50px; text-shadow:1px 0px 0 #444; color:#999966!important ">
+      Discover any movie your mind desires.
+    </h1>
+    <h2 style="font-size:30px; text-shadow:1px 0px 0 #444; color:#999966!important">
+      Flix APP is dedicated to cross reafernece and find any movie associated with any search query
+    </h2>
+  </div>
+
+
+</div>
+
+
+
+<div style ="background-color: #999966;">
+
+<mat-form-field class="example-form-field">
+    <input matInput type="text" placeholder="Enter Movie Name" [(ngModel)]="value">
+    <button [disabled]="false" mat-button *ngIf="value" matSuffix mat-icon-button aria-label="Clear" (click)="value=''">
+      <mat-icon>close</mat-icon>
+    </button>
+  </mat-form-field>
+
+  <button mat-button (click)="callForPicture()">Return Movies!</button>
+
+<!-- With Angular data binding it makes it easy to display and show elements when the data structure youre working with is populated
+Here i am currently making a call to the service and only displaying the cards once data has been retrieved,
+the cards contain the image, title, release date and description -->
+
+
+<div *ngIf="dataSize.length>0 && value.length >0"> 
+    
+      <table >
+        <tr *ngFor = "let r of row">
+          <td *ngFor="let data of r">
+            <!-- <div *ngFor="let data of dataSize" > -->
+              <div style="width:500px; padding-right: 20px;">
+              <mat-card class="example-card">
+                <mat-card-header>
+                  <div mat-card-avatar class="example-header-image"></div>
+                  <mat-card-title>{{data.title}}</mat-card-title>
+                  <mat-card-subtitle>{{data.release_date}}</mat-card-subtitle>
+                </mat-card-header>
+                <img mat-card-image src="http://image.tmdb.org/t/p/w400/{{data.poster_path}}" alt="Photo of a Shiba Inu">
+                <mat-card-content>
+                  <p>
+                    {{data.overview}}
+                  </p>
+                </mat-card-content>
+            </mat-card>
+          </div>
+          <!-- </div>   -->
+          </td>
+        </tr>
+      </table>  
+</div>
+
+</div>
+<div style="background-color:#999966; height:600px;">
+
+</div>
+

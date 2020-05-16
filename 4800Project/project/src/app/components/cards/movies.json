@@ -1,0 +1,380 @@
+{
+    "page": 1,
+    "total_results": 583,
+    "total_pages": 30,
+    "results": [
+        {
+            "popularity": 11.801,
+            "id": 132232,
+            "video": false,
+            "vote_count": 2811,
+            "vote_average": 6.1,
+            "title": "Mama",
+            "release_date": "2013-01-17",
+            "original_language": "en",
+            "original_title": "Mama",
+            "genre_ids": [
+                27
+            ],
+            "backdrop_path": "/9yHj0TEWR4FSQwX6DpPpkr0qymt.jpg",
+            "adult": false,
+            "overview": "Guillermo del Toro presents Mama, a supernatural thriller that tells the haunting tale of two little girls who disappeared into the woods the day that their parents were killed. When they are rescued years later and begin a new life, they find that someone or something still wants to come tuck them in at night.",
+            "poster_path": "/4PuleWd588hrOfi6VLegd37w50I.jpg"
+        },
+        {
+            "popularity": 9.877,
+            "vote_count": 416,
+            "video": false,
+            "poster_path": "/gl5utkdzqhePl7Kqmo5hhQexpZA.jpg",
+            "id": 8780,
+            "adult": false,
+            "backdrop_path": "/cRl5XI8N8lvDHRoNvuPL6CKD6z9.jpg",
+            "original_language": "en",
+            "original_title": "Baby Mama",
+            "genre_ids": [
+                35
+            ],
+            "title": "Baby Mama",
+            "vote_average": 5.9,
+            "overview": "A successful, single businesswoman who dreams of having a baby discovers she is infertile and hires a working class woman to be her unlikely surrogate.",
+            "release_date": "2008-04-25"
+        },
+        {
+            "popularity": 13.643,
+            "id": 1391,
+            "video": false,
+            "vote_count": 736,
+            "vote_average": 7.4,
+            "title": "Y Tu Mamá También",
+            "release_date": "2001-06-08",
+            "original_language": "es",
+            "original_title": "Y tu mamá también",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "backdrop_path": "/5jXzf6VCxmRAbQYYOuoPgGZRbRp.jpg",
+            "adult": false,
+            "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+            "poster_path": "/izw41PkE8y891yraO6fN1tCNmOG.jpg"
+        },
+        {
+            "popularity": 4.191,
+            "vote_count": 70,
+            "video": false,
+            "poster_path": null,
+            "id": 140656,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Mamá",
+            "genre_ids": [
+                27
+            ],
+            "title": "Mamá",
+            "vote_average": 6.2,
+            "overview": "Little Victoria is waken up by her sister Lili who insists on leaving the house because somebody unpleasant has come back.",
+            "release_date": "2008-10-07"
+        },
+        {
+            "popularity": 3.926,
+            "vote_count": 36,
+            "video": false,
+            "poster_path": "/gLP7yzXs2HNY2HSKBDJMBfBDgr4.jpg",
+            "id": 28797,
+            "adult": false,
+            "backdrop_path": "/8gtpdG70aebJw8lw9vmwPAown95.jpg",
+            "original_language": "en",
+            "original_title": "Black Mama, White Mama",
+            "genre_ids": [
+                28
+            ],
+            "title": "Black Mama, White Mama",
+            "vote_average": 5.6,
+            "overview": "When two troublemaking female prisoners (one a revolutionary, the other a former harem-girl) can't seem to get along, they are chained together and extradited for safekeeping. The women, still chained together, stumble, stab, and cat-fight their way across the wilderness, igniting a bloody shootout between gangsters and a group of revolutionaries.",
+            "release_date": "1973-01-19"
+        },
+        {
+            "popularity": 4.165,
+            "vote_count": 38,
+            "video": false,
+            "poster_path": "/1S9JmJEesEnu4WtBbmbravmNUuW.jpg",
+            "id": 31581,
+            "adult": false,
+            "backdrop_path": "/wZILC90F0zGyegycVrw9ih41qLR.jpg",
+            "original_language": "en",
+            "original_title": "Bloody Mama",
+            "genre_ids": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "title": "Bloody Mama",
+            "vote_average": 5.5,
+            "overview": "Sexually abused as a young girl, Kate \"Ma\" Barker grows into a violently powerful woman by the 1930s. She lovingly dominates her grown sons, and grooms them into a pack of tough crooks. The boys include the cruel Herman, who still shares a bed with Ma; Fred, an ex-con who fell in love with a fellow prisoner; and Lloyd, who gets high on whatever's handy. Together they form a deadly, bizarre family of Depression-era bandits.",
+            "release_date": "1970-03-24"
+        },
+        {
+            "popularity": 5.227,
+            "vote_count": 18,
+            "video": false,
+            "poster_path": "/1diWExuotCJlaw6bISmIqfLV798.jpg",
+            "id": 45186,
+            "adult": false,
+            "backdrop_path": "/wWrUVbXiBiphSau1Zp3g3sAumgt.jpg",
+            "original_language": "en",
+            "original_title": "Big Bad Mama",
+            "genre_ids": [
+                28,
+                35,
+                80,
+                18
+            ],
+            "title": "Big Bad Mama",
+            "vote_average": 6.4,
+            "overview": "Mama and daughters get forced by circumstances into bootlegging and bank robbing, and travel across the country trailed by the law.",
+            "release_date": "1974-09-19"
+        },
+        {
+            "popularity": 3.955,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "/hBbOjy9DBFJU4L8u9Z1QTEiPQZC.jpg",
+            "id": 699141,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Gaia Mama",
+            "genre_ids": [],
+            "title": "Gaia Mama",
+            "vote_average": 0,
+            "overview": "Laura Bouza’s Gaia Mama is a feast for our eyes and ears – introducing and exploring the use of singing bowls as if they are characters. Proper instruction as to how the bowls are played allows us to witness the care and gentle guidance of a teacher, Kabbalah, and her student, Florence. Rhythmic vibrations on the bowl’s surface are captured in high speed 16mm film, revelling in grain and colour. A delight to watch, the film flits between the natural world and sonic: a luscious deep purple flower in the half-light and the clear tone of a singing bowl.",
+            "release_date": "2020-05-01"
+        },
+        {
+            "popularity": 3.033,
+            "vote_count": 9,
+            "video": false,
+            "poster_path": "/ftMuRRl8tLlnzKRnVI3SeHyuCGh.jpg",
+            "id": 19782,
+            "adult": false,
+            "backdrop_path": "/gtcWmJHkhd9kfFCr5hDWQrZ50eb.jpg",
+            "original_language": "en",
+            "original_title": "Mama Jack",
+            "genre_ids": [
+                35
+            ],
+            "title": "Mama Jack",
+            "vote_average": 4.9,
+            "overview": "Set in Cape Town, South Africa Mama Jack is the story of Jack Theron, an ordinary person working on a film set. However, his movie producer boss hates him and wants to remove him from the production of the film. In a bid to get rid of Jack, the producer spikes his drink with a drug at a glamorous function, and before long Jack has got himself on the wrong side of the law.  While on the run, Jack turns to his friend, a make-up artist, who turns him into \"Mama Bolo\". Mama Bolo soon finds “herself” employed by the producer’s fiancée, Angela.  A series of deceptions and misunderstandings pile up and comic mayhem ensues with Jack Theron becoming another character, Doctor Donald, a tramp from Scotland.",
+            "release_date": "2005-01-01"
+        },
+        {
+            "popularity": 2.795,
+            "vote_count": 11,
+            "video": false,
+            "poster_path": "/6jP7gOBvgHwMFioqM4E7cZFMNLK.jpg",
+            "id": 57590,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "nl",
+            "original_title": "Mama is Boos!",
+            "genre_ids": [
+                35
+            ],
+            "title": "Mama is Boos!",
+            "vote_average": 4.5,
+            "overview": "After Gisberts couple at the end of the film Schatjes! with their car in a large hole in the highway driving, which is then surfaced, the film begins with the father's wake, which appears to have dreamed all this. Although the children are sent to shelters, is the tense relationship between John and Danny. This will culminate in their 20-year wedding anniversary. Danny throw John out of the house, because John had a mistress for years. John then pulls on the military base where he works. But not for long. Soon John gets an affair with his mistress Jane. Until Danny's rage, now is really out for revenge. The marital strife comes to a climax on the scale NATO show where Danny enters with an Uzi and shoot wildly around him, while John high from the ceiling in a rocket. The title song 'Do not Try To Change Me \"is sung by Sue Chaloner.",
+            "release_date": "1986-03-20"
+        },
+        {
+            "popularity": 1.917,
+            "vote_count": 6,
+            "video": false,
+            "poster_path": "/AbfNSMb17iwUix8lGItIk06PE98.jpg",
+            "id": 119169,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Mama Dracula",
+            "genre_ids": [
+                35,
+                27,
+                53
+            ],
+            "title": "Mama Dracula",
+            "vote_average": 2.8,
+            "overview": "A female vampire must bathe in the blood of virgins in order to stay alive. The trouble is that virgins are in short supply nowadays, and she is running into major problems in finding one.",
+            "release_date": "1980-11-19"
+        },
+        {
+            "popularity": 2.808,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": null,
+            "id": 184075,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Mama Steps Out",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "title": "Mama Steps Out",
+            "vote_average": 0,
+            "overview": "A Fort Wayne, Indiana housewife (Alice Brady) drags her husband (Guy Kibbee) and daughter (Betty Furness) to Europe for culture.",
+            "release_date": "1937-02-05"
+        },
+        {
+            "popularity": 2.571,
+            "vote_count": 28,
+            "video": false,
+            "poster_path": "/oqiq3Zm6NeiVvd08gpUUu3WrihA.jpg",
+            "id": 43442,
+            "adult": false,
+            "backdrop_path": "/jdsWlcsYvg6ziMtaAf5XiW1jv5V.jpg",
+            "original_language": "en",
+            "original_title": "I Remember Mama",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "title": "I Remember Mama",
+            "vote_average": 7,
+            "overview": "Norwegian immigrant Marta Hanson keeps a firm but loving hand on her household of four children, a devoted husband and a highly-educated lodger who reads Charles Dickens to the family every evening. Through financial crises, illnesses and the small triumphs of everyday life, Marta maintains her optimism and sense of humor, traits she passes on to her aspiring-author daughter, Katrin.",
+            "release_date": "1948-03-17"
+        },
+        {
+            "popularity": 4.714,
+            "vote_count": 39,
+            "video": false,
+            "poster_path": "/e96vm2byFOXoXo7KMRQtmTB8YcK.jpg",
+            "id": 13167,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Mama's Boy",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "title": "Mama's Boy",
+            "vote_average": 4.4,
+            "overview": "A twenty-nine year-old slacker who lives with his mom realizes his sweet set-up is threatened when she hears wedding bells with her self-help guru beau.",
+            "release_date": "2007-12-14"
+        },
+        {
+            "popularity": 1.463,
+            "vote_count": 2,
+            "video": false,
+            "poster_path": null,
+            "id": 122140,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Mama Africa",
+            "genre_ids": [
+                99,
+                18
+            ],
+            "title": "Mama Africa",
+            "vote_average": 6,
+            "overview": "Documentary about Miriam Makeba",
+            "release_date": "2011-02-12"
+        },
+        {
+            "popularity": 2.39,
+            "vote_count": 4,
+            "video": false,
+            "poster_path": "/zIRCirg18lhRQoBCSZ9Dl6DVY7W.jpg",
+            "id": 35005,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "es",
+            "original_title": "Conversaciones con mamá",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "title": "Conversations with Mother",
+            "vote_average": 5.3,
+            "overview": "Jaime has lost his job and has to provide for his wife, son and daughter. Pressured by this circumstances, he visits his mom, who lives in an apartment he owns, to ask her to move with him so he can sell the apartment. But she is not going to cooperate. And, to Jaime's surprise, she also has a boyfriend!",
+            "release_date": "2004-04-15"
+        },
+        {
+            "popularity": 1.4,
+            "vote_count": 2,
+            "video": false,
+            "poster_path": "/4hhwqmmKjvLEBog1KKn4zWAnsMJ.jpg",
+            "id": 198011,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "de",
+            "original_title": "Mama, ich lebe",
+            "genre_ids": [
+                12,
+                18,
+                10752
+            ],
+            "title": "Mama, I'm Alive",
+            "vote_average": 5.5,
+            "overview": "Mama, I'm Alive (German: Mama, ich lebe) is a 1977 East German film directed by Konrad Wolf. It was chosen as East Germany's official submission to the 50th Academy Awards for Best Foreign Language Film, but did not manage to receive a nomination. It was also entered into the 27th Berlin International Film Festival.",
+            "release_date": "1977-02-24"
+        },
+        {
+            "popularity": 0.6,
+            "id": 666088,
+            "video": false,
+            "vote_count": 0,
+            "vote_average": 0,
+            "title": "Mum, Mum, Mum",
+            "release_date": "2020-02-22",
+            "original_language": "es",
+            "original_title": "Mamá, mamá, mamá",
+            "genre_ids": [
+                18
+            ],
+            "backdrop_path": "/eQB9fO73RscQnrcOOEyhtlRlbGO.jpg",
+            "adult": false,
+            "overview": "A veil of sadness lies over the oppressively hot summer days. Cleo dives into daydreams with her cousins, the girls share secret signs and rituals. Flowing gently, in impressionistic images, the empty space that the death of Cleo’s sister has left in the family is poetically encircled.",
+            "poster_path": "/693GzhR4UhKydo4UOIvBJj23Cn9.jpg"
+        },
+        {
+            "popularity": 1.499,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": "/flwABnX3AOxwteWD7Fqlw0KIeSH.jpg",
+            "id": 651970,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Niña mamá",
+            "genre_ids": [
+                99
+            ],
+            "title": "Mother-Child",
+            "vote_average": 0,
+            "overview": "In shades of gray, the calm, static shots show young female visitors to a public hospital in Argentina. This is the place where teenage girls have to make a decision about the new life growing inside them. A few of them have, at a very young age indeed, already had children. For others, the idea of a future as a mother is new and terrifying.  In many cases, though, having an abortion isn’t a decision to be taken for granted. Some of the girls have learned from childhood that getting pregnant is your own fault, and you have to accept the consequences. What they know about abortion comes from horror stories of clandestine practices in backstreet clinics.  The hospital gynecologists and other staff, who can be heard but not seen, ask the girls about their well-being, their relationship, their family ties, and how they see the future—with or without a child. In these intimate and non-judgmental conversations, the girls respond with powerful candor in their most vulnerable moments.",
+            "release_date": "2019-11-25"
+        },
+        {
+            "popularity": 1.491,
+            "id": 646457,
+            "video": false,
+            "vote_count": 0,
+            "vote_average": 0,
+            "title": "Mama Lova",
+            "release_date": "2019-06-30",
+            "original_language": "fr",
+            "original_title": "Mama Lova",
+            "genre_ids": [],
+            "backdrop_path": null,
+            "adult": false,
+            "overview": "Adèle has just lost her teenage son during a fight between cities. Idle in front of the trampling of the investigation, she can not manage to mourn. The impunity of traffic and delinquency creates tensions in the neighborhood. Adèle will have to show courage and fighting spirit to protect her other children.",
+            "poster_path": "/sxLqBav0hwcDqjbPwypQEktF7q7.jpg"
+        }
+    ]
+}

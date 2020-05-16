@@ -1,0 +1,12 @@
+.example-card {
+    max-width: 400px;
+  }
+
+  .example-form-field {
+    width: 200px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png');
+    background-size: cover;
+  }

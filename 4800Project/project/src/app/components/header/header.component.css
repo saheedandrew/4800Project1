@@ -1,0 +1,15 @@
+.mat{
+  align-items: center;
+  position: sticky;
+  top: 0;
+  justify-content: center;
+  z-index:500;
+}
+
+.fontheigth{
+  font-size:28px;
+}
+
+.but img{
+  background: transparent;
+}
